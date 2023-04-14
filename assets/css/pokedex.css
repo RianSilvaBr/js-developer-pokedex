@@ -146,6 +146,16 @@
     border-radius: 1rem;
 }
 
+span.weight {
+    color: #ecdeca;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span.height {
+    color: #69574b;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
